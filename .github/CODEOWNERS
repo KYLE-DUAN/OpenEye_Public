@@ -1,0 +1,5 @@
+# OpenEye code owners
+* @KYLE-DUAN
+
+# Explicitly protect repository governance files.
+/.github/ @KYLE-DUAN
